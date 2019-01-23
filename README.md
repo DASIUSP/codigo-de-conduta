@@ -1,5 +1,5 @@
 # Código de Conduta 📜
-***Por: Diretório Acadêmico de Sistemas de Informação da Escolas de Artes, Ciências e Humanidades - Universidade de São Paulo***
+***Por: Diretório Acadêmico de Sistemas de Informação da Escolas de Artes, Ciências e Humanidades - Universidade de São Paulo (DASI-USP)***
 
 ----------
 
