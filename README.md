@@ -11,22 +11,25 @@ Todo e qualquer grupo criado pelo Diretório Acadêmico de Sistemas de Informaç
 
 
 Para que tenhamos um bom convívio, é importante cada um seguir as regras de utilização dos grupos:
-    • Divulgação de eventos, palestras, cursos e outros links são permitidos desde que não tenham um direcionamento para promover violência, quaisquer atos de preconceito sendo estes podendo ser com foco em um indivíduo ou grupos classificados como minorias e quaisquer outras formas de discriminação.
-🔒 O grupo de discussão deve ser um lugar seguro e convidativo para pessoas independentemente de:
-    • Gênero, identidade de gênero ou expressão de gênero
-    • Orientação sexual
-    • Restrições físicas
-    • Aparência física (incluindo, mas não limitado, ao tamanho do corpo)
-    • Raça e/ou etnia
-    • Idade
-    • Religião ou a falta dela
-    • Escolha de tecnologias
+    - Divulgação de eventos, palestras, cursos e outros links são permitidos desde que não tenham um direcionamento para promover violência, quaisquer atos de preconceito sendo estes podendo ser com foco em um indivíduo ou grupos classificados como minorias e quaisquer outras formas de discriminação.
+    
+### O grupo de discussão deve ser um lugar seguro e convidativo para pessoas independentemente de:
+
+    - Gênero, identidade de gênero ou expressão de gênero
+    - Orientação sexual
+    - Restrições físicas
+    - Aparência física (incluindo, mas não limitado, ao tamanho do corpo)
+    - Raça e/ou etnia
+    - Idade
+    - Religião ou a falta dela
+    - Escolha de tecnologias
 ✔️Como membro deste grupo, você concorda que:
-    • Nós somos, coletivamente e individualmente, comprometidos com a segurança e inclusão.
-    • Nós adotamos a política de tolerância zero para assédio, perseguições ou discriminações.
-    • Nós respeitamos os limites, identidade e privacidade das pessoas.
-    • Nós nos abstemos de usar linguagem que possa ser considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de Conduta não está limitado a apenas estes.
-    • Nós evitamos tópicos ofensivos como forma de humor.
+    - Nós somos, coletivamente e individualmente, comprometidos com a segurança e inclusão.
+    - Nós adotamos a política de tolerância zero para assédio, perseguições ou discriminações.
+    - Nós respeitamos os limites, identidade e privacidade das pessoas.
+    - Nós nos abstemos de usar linguagem que possa ser considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de Conduta não está limitado a apenas estes.
+    - Nós evitamos tópicos ofensivos como forma de humor.
+    - Nós permitimos a divulgação de eventos, palestras, cursos e outros links desde que os mesmos citados não tenham um direcionamento para promover violência, quaisquer atos de preconceito sendo estes podendo ser com foco em um indivíduo ou grupos classificados como minorias e quaisquer outras formas de discriminação.
 ✔️Nós trabalhamos ativamente para:
     • Ser uma comunidade segura.
     • Cultivar uma rede de suporte e encorajamento para todos.
