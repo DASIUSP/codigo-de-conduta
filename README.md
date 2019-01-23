@@ -7,7 +7,9 @@ Todo e qualquer grupo criado pelo Diretório Acadêmico de Sistemas de Informaç
 
 ----------
 
-## Regras de publicação 📣 
+## Regras de publicação 📣
+
+
 Para que tenhamos um bom convívio, é importante cada um seguir as regras de utilização dos grupos:
     • Divulgação de eventos, palestras, cursos e outros links são permitidos desde que não tenham um direcionamento para promover violência, quaisquer atos de preconceito sendo estes podendo ser com foco em um indivíduo ou grupos classificados como minorias e quaisquer outras formas de discriminação.
 🔒 O grupo de discussão deve ser um lugar seguro e convidativo para pessoas independentemente de:
