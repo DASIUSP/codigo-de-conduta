@@ -11,14 +11,17 @@ Todo e qualquer grupo criado pelo Diretório Acadêmico de Sistemas de Informaç
 
 Para que tenhamos um bom convívio, é importante cada um seguir as regras de utilização dos grupos:
 ### 🤚 O grupo de discussão deve ser um lugar seguro e convidativo para pessoas independentemente de:
-    * Gênero, identidade de gênero ou expressão de gênero
-    * Orientação sexual
-    * Restrições físicas
-    * Aparência física (incluindo, mas não limitado, ao tamanho do corpo)
-    * Raça e/ou etnia
-    * Idade
-    * Religião ou a falta dela
-    * Escolha de tecnologias
+
+    ● Gênero, identidade de gênero ou expressão de gênero
+    
+    ● Orientação sexual
+    
+    ● Restrições físicas
+    ● Aparência física (incluindo, mas não limitado, ao tamanho do corpo)
+    ● Raça e/ou etnia
+    ● Idade
+    ● Religião ou a falta dela
+    ● Escolha de tecnologias
 ### ✔️ Como membro deste grupo, você concorda que:
     - Nós somos, coletivamente e individualmente, comprometidos com a segurança e inclusão.
     - Nós adotamos a política de tolerância zero para assédio, perseguições ou discriminações.
