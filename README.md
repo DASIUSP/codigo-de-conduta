@@ -29,8 +29,8 @@ Para que tenhamos um bom convívio, é importante cada um seguir as regras de ut
     Conduta não está limitado a apenas estes.
     ● Nós evitamos tópicos ofensivos como forma de humor.
     ● Nós permitimos a divulgação de eventos, palestras, cursos e outros links desde que os mesmos citados não tenham um
-    direcionamento para promover violência, quaisquer atos de preconceito sendo estes podendo ser com foco em um indivíduo
-    ou grupos classificados como minorias e quaisquer outras formas de discriminação.
+    direcionamento para promover violência, quaisquer atos de preconceito sendo estes podendo ser com foco em um
+    indivíduo ou grupos classificados como minorias e quaisquer outras formas de discriminação.
     
 ### ✔️ Nós trabalhamos ativamente para:
     ● Ser uma comunidade segura.
