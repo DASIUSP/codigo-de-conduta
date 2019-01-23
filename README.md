@@ -25,11 +25,11 @@ Para que tenhamos um bom convívio, é importante cada um seguir as regras de ut
     ● Nós adotamos a política de tolerância zero para assédio, perseguições ou discriminações.
     ● Nós respeitamos os limites, identidade e privacidade das pessoas.
     ● Nós nos abstemos de usar linguagem que possa ser considerada opressiva, como comentários sexistas, racistas,
-    homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de
-    Conduta não está limitado a apenas estes.
+    homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código
+    de Conduta não está limitado a apenas estes.
     ● Nós evitamos tópicos ofensivos como forma de humor.
-    ● Nós permitimos a divulgação de eventos, palestras, cursos e outros links desde que os mesmos citados não tenham um
-    direcionamento para promover violência, quaisquer atos de preconceito sendo estes podendo ser com foco em um
+    ● Nós permitimos a divulgação de eventos, palestras, cursos e outros links desde que os mesmos citados não tenham
+    um direcionamento para promover violência, quaisquer atos de preconceito sendo estes podendo ser com foco em um
     indivíduo ou grupos classificados como minorias e quaisquer outras formas de discriminação.
     
 ### ✔️ Nós trabalhamos ativamente para:
