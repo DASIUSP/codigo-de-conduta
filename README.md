@@ -47,7 +47,8 @@ Para que tenhamos um bom convívio, é importante cada um seguir as regras de ut
     
 ### ⚖ O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em consequências:
     ● Publicações que não estiverem de acordo com este Código de Conduta serão removidas.
-    ● Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso o comportamento persista outra providência será tomada.
+    ● Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso o comportamento persista outra
+    providência será tomada.
     ● Cabe aos administradores decidir se você será removido temporariamente ou permanentemente deste grupo.
     ● Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um administrador. Se
     o administrador for a pessoa que você quer reportar, fale com outro administrador.
