@@ -1,5 +1,5 @@
 # Código de Conduta 📜
-***Por: Diretório Acadêmico de Sistemas de Informação***
+***Por: Diretório Acadêmico de Sistemas de Informação da Escolas de Artes, Ciências e Humanidades - Universidade de São Paulo***
 
 ----------
 
@@ -19,23 +19,27 @@ Para que tenhamos um bom convívio, é importante cada um seguir as regras de ut
     ● Idade
     ● Religião ou a falta dela
     ● Escolha de tecnologias
-### ✔️ Como membro deste grupo, você concorda que:
+    
+### 🤝 Como membro deste grupo, você concorda que:
     ● Nós somos, coletivamente e individualmente, comprometidos com a segurança e inclusão.
     ● Nós adotamos a política de tolerância zero para assédio, perseguições ou discriminações.
     ● Nós respeitamos os limites, identidade e privacidade das pessoas.
     ● Nós nos abstemos de usar linguagem que possa ser considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de Conduta não está limitado a apenas estes.
     ● Nós evitamos tópicos ofensivos como forma de humor.
     ● Nós permitimos a divulgação de eventos, palestras, cursos e outros links desde que os mesmos citados não tenham um direcionamento para promover violência, quaisquer atos de preconceito sendo estes podendo ser com foco em um indivíduo ou grupos classificados como minorias e quaisquer outras formas de discriminação.
+    
 ### ✔️ Nós trabalhamos ativamente para:
     ● Ser uma comunidade segura.
     ● Cultivar uma rede de suporte e encorajamento para todos.
     ● Encorajar variadas formas de expressão de maneira responsável.
+    
 ### ❌ Nós condenamos:
     ● Perseguição, doxxing (investigar a vida de uma pessoa sem autorização) ou publicações indevidas de informações privadas.
     ● Ameaças e assédio de qualquer tipo.
     ● Qualquer comportamento que comprometa a segurança dos demais membros.
     ● Essas atitudes NÃO SÃO CORRETAS. Se você não concorda com estas regras, por favor, cancele sua inscrição neste grupo.
-O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em consequências:
+    
+### ⚖ O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em consequências:
     ● Publicações que não estiverem de acordo com este Código de Conduta serão removidas.
     ● Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso o comportamento persista outra providência será tomada.
     ● Cabe aos administradores decidir se você será removido temporariamente ou permanentemente deste grupo.
