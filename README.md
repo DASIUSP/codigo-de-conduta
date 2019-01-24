@@ -1,4 +1,4 @@
-# Código de Conduta 📜
+# 📜 Código de Conduta
 ***Por: Diretório Acadêmico de Sistemas de Informação da Escolas de Artes, Ciências e Humanidades - Universidade de São Paulo (DASI-USP)***
 
 ----------
@@ -7,7 +7,7 @@ Todo e qualquer grupo criado pelo Diretório Acadêmico de Sistemas de Informaç
 
 ----------
 
-## Regras de publicação 📣
+## 📣 Regras de publicação
 
 Para que tenhamos um bom convívio, é importante cada um seguir as regras de utilização dos grupos:
 ### 👥 O grupo de discussão deve ser um lugar seguro e convidativo para pessoas independentemente de:
