@@ -52,4 +52,9 @@ Para que tenhamos um bom convívio, é importante cada um seguir as regras de ut
     ● Cabe aos administradores decidir se você será removido temporariamente ou permanentemente deste grupo.
     ● Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um administrador. Se
     o administrador for a pessoa que você quer reportar, fale com outro administrador.
+    
 A posição de administrador é para fins de moderação imparcial; eles não vão moderar ou editar o conteúdo postado pelos membros do grupo para outras finalidades ou por motivos estritamente pessoais.
+
+----------
+
+Créditos: http://womakerscode.org/ de https://github.com/WoMakersCode/codigo-de-conduta/blob/master/README.md
