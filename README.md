@@ -10,7 +10,7 @@ Todo e qualquer grupo criado pelo Diretório Acadêmico de Sistemas de Informaç
 ## 📣 Regras de publicação
 
 Para que tenhamos um bom convívio, é importante cada um seguir as regras de utilização dos grupos:
-### 👥 O grupo de discussão deve ser um lugar seguro e convidativo para pessoas independentemente de:
+### 👥 Os grupos devem ser um lugar seguro e convidativo para pessoas independentemente de:
     ● Gênero, identidade de gênero ou expressão de gênero
     ● Orientação sexual
     ● Restrições físicas
